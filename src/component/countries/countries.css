@@ -1,0 +1,15 @@
+.container{
+   display: grid;
+   grid-template-columns: repeat(5,1fr);
+   grid-gap: 15px;
+ 
+}
+img{
+    width: 150px;
+}
+.country-container{
+    background-color: bisque;
+    border-radius: 10px;
+    box-shadow: 2px 4px 10px rgb(165, 213, 228);
+    padding: 10px;
+}

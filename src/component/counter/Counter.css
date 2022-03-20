@@ -1,0 +1,26 @@
+.counters{
+    background-color: aquamarine;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+button{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+h3{
+    color: rgb(226, 19, 147);
+    font-size: 2rem;
+}
+span{
+    color: whitesmoke;
+    font-weight: 700px;
+    background-color: rgba(218, 13, 57, 0.829);
+    padding: 10px;
+    border-radius: 10px;
+}
